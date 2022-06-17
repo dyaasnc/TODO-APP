@@ -58,30 +58,7 @@ export const Todo = () => {
             </button>
           </div>
 
-          <div className="footer">
-            Made with ❤️ by Parizat Binta Kabir
-            <br />{" "}
-            <a
-              href="https://github.com/parizat-hridi"
-              target="_blank"
-              rel="noreferrer"
-            >
-              <i
-                className="fa fa-github"
-                style={{
-                  backgroundColor: "transparent",
-                  color: "white",
-                  marginRight: "35px",
-                }}
-              ></i>
-            </a>{" "}
-            <a href="mailto: parizatbintekabir@gmail.com">
-              <i
-                class="fa fa-envelope"
-                style={{ backgroundColor: "transparent", color: "white" }}
-              ></i>
-            </a>
-          </div>
+          
         </div>
       </div>
     </>
